@@ -1,0 +1,3 @@
+[submodule "develop-kos/KallistiOS"]
+	path = develop-kos/KallistiOS
+	url = https://github.com/cepawiel/KallistiOS
